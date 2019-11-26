@@ -6,6 +6,7 @@ public class MainRunner {
 
 		DemoClass demoClass = new DemoClass();
 		demoClass.setName("Abdulrahman");
+		demoClass.setAge(25);
 		System.out.println(demoClass);
 				
 	}
