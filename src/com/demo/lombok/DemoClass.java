@@ -20,5 +20,6 @@ public @Data class DemoClass {
 	private int age;
 	private String name;
 	private String tech;
+	private String job;
 
 }
